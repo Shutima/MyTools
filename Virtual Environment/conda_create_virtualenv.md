@@ -149,6 +149,3 @@ conda update --all --yes
 #### Sources:
 📝 [Conda Package Management](https://docs.conda.io/projects/conda/en/latest/index.html)
 📝 [Conda Configuration](https://conda.io/projects/conda/en/latest/user-guide/configuration/index.html)
-
-## Acknowledgements
-Thank you to [Lisa Koppe](https://github.com/lisakoppe) for sharing this useful document
